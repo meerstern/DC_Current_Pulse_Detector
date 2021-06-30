@@ -1,0 +1,31 @@
+### Module positions - created on 2021/06/05 9:34:55 ###
+### Printed by Pcbnew version pcbnew (5.1.2)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val               Package                       PosX       PosY       Rot  Side
+C1        NM                C_0603_1608Metric         116.5000   -76.7000  270.0000  top
+C2        0.1u              C_0603_1608Metric         114.1120   -72.2000    0.0000  top
+C3        0.1u              C_0603_1608Metric         121.9880   -71.9000  180.0000  top
+C4        0.1u              C_0603_1608Metric         121.9000   -81.4875  270.0000  top
+C5        0.1u              C_0603_1608Metric         114.1120   -67.4000  180.0000  top
+C6        0.1u              C_0603_1608Metric         118.8880   -77.5000  180.0000  top
+D1        LED               LED_0603_1608Metric       129.3000   -67.6000    0.0000  top
+D2        LED               LED_0603_1608Metric       129.3000   -85.6000    0.0000  top
+L1        FB                L_0603_1608Metric         118.1000   -75.1125   90.0000  top
+R1        1k                R_0603_1608Metric         114.8000   -76.7000  270.0000  top
+R2        10k               R_0603_1608Metric         114.1120   -69.0000  180.0000  top
+R3        10k               R_0603_1608Metric         114.0880   -70.6000    0.0000  top
+R4        0                 R_0603_1608Metric         116.5120   -80.7000    0.0000  top
+R5        330               R_0603_1608Metric         118.8880   -79.1000  180.0000  top
+R6        330k              R_0603_1608Metric         122.1880   -77.5000  180.0000  top
+R7        10k               R_0603_1608Metric         124.2000   -69.0000  180.0000  top
+R8        10k               R_0603_1608Metric         124.2000   -67.4000  180.0000  top
+R10       2.1k              R_0603_1608Metric         129.3000   -65.9000    0.0000  top
+R11       2.1k              R_0603_1608Metric         129.3000   -87.3000    0.0000  top
+RV1       5k                rcl-RTRIMCVR42A           114.2000   -84.3983    0.0000  top
+RV2       5k                rcl-RTRIMCVR42A           118.9000   -84.4000    0.0000  top
+RV3       Varistor          Fuse_0402_1005Metric      113.4000   -76.6150  270.0000  top
+U1        LM321             SOT-23-5                  122.3000   -74.5000    0.0000  top
+U2        LM2903BQP_TSSOP8  TSSOP-8_4.4x3mm_P0.65mm   124.8000   -84.0000   90.0000  top
+U3        74LVC2G00         TSSOP-8_3x3mm_P0.65mm     119.3000   -68.1000  180.0000  top
+## End
