@@ -4,6 +4,7 @@ DC Current Pulse Detector with CT Sensor
 
 ## 概要 
   * 直流信号線のON、OFF状態をクランプ式CTセンサで検出するための変換基板です 
+  * 3000:1もしくは2000:1の巻き線比のCTセンサを同梱しています  
   * 本変換基板とクランプ式CTセンサによって信号線を加工せずに信号線の状態を取得することができます  
   * 信号線ON/OFFによって発生するパルスをCTセンサで検出し、状態をラッチします 
   * ラッチ保持した状態(信号線のON/OFF状態)を1/0のデジタル信号として出力します  
@@ -13,6 +14,17 @@ DC Current Pulse Detector with CT Sensor
   * 電源3.0V~5.5V、コネクタはGrove互換コネクタです 
   * 出力はSTA1、STA2の2つあり、閾値が正しく設定されている場合、どちらか一方がONでもう片方はOFFとなります
   * STA1、STA2のON状態(LED D1とD2に対応)と信号線のON状態はCTセンサの向きによって変わります  
+  * 下記の図に示す様にCTセンサ白線をJ1の1番ピン、CTセンサ黒線J1の2番ピンに配線し、CTのK→Ｌ電流を流した場合、  
+  信号線ONでS1(LED1)がHighかつS2(LED2)がLowとなります。逆に信号線OFFでS1(LED1)がLowかつS2(LED2)がHighとなります。  
+  
+
+ <img src="https://raw.githubusercontent.com/meerstern/DC_Current_Pulse_Detector/main/IMG/img1.JPG?token=AF5FHUCIJCMVBRQYWS5NIWDA77OY2" width="420">
+ 
+ <img src="https://raw.githubusercontent.com/meerstern/DC_Current_Pulse_Detector/main/IMG/img2.JPG?token=AF5FHUFT7YDYAACYDXDIX5DA77PCM" width="420">
+
+ <img src="https://raw.githubusercontent.com/meerstern/DC_Current_Pulse_Detector/main/IMG/img3.JPG?token=AF5FHUGZHL4K2CGMHG7KWVTA77PGM" width="420">
+ 
+ <img src="https://raw.githubusercontent.com/meerstern/DC_Current_Pulse_Detector/main/IMG/img4.JPG?token=AF5FHUCH47QONZF7MGW6L6TA77PG6" width="420">
   
 ## 注意
   * 電源投入直後のデジタル出力状態は不定です  
