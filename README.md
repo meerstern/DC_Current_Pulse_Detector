@@ -24,7 +24,9 @@ DC Current Pulse Detector with CT Sensor
  <img src="https://raw.githubusercontent.com/meerstern/DC_Current_Pulse_Detector/main/IMG/img3.JPG" width="420">
  
  <img src="https://raw.githubusercontent.com/meerstern/DC_Current_Pulse_Detector/main/IMG/img4.JPG" width="420">
-  
+ 
+ <img src="https://raw.githubusercontent.com/meerstern/DC_Current_Pulse_Detector/main/IMG/img5.JPG" width="420">
+ 
 ## 注意
   * 電源投入直後のデジタル出力状態は不定です  
   * 信号線ON/OFFによって発生するパルスの向きでON、OFFを検知するため、電源投入直後はSTA1、STA2の状態と信号状態が一致しません  
