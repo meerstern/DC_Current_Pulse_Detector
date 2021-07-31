@@ -1,5 +1,4 @@
 # DC電流パルス検知基板
-DC_Current_Pulse_Detector
 DC Current Pulse Detector with CT Sensor
 
 ## 概要 
