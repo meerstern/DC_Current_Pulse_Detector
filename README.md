@@ -40,4 +40,10 @@ DC Current Pulse Detector with CT Sensor
   * 信号状態を簡易的に取得することを目的としており、信頼性が求められる目的で使用しないでください  
   * 同梱CTセンサ(巻き線比3000:1,75A/25mA,7.5V以上保護 KCT-10)は納品タイミングによって予告なしに変更する場合があります  
   
+## 販売サイト
+  * [スイッチサイエンス][2]  
+
   MIT Lisense
+
+
+[2]: https://www.switch-science.com/products/7396
